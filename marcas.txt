@@ -1,0 +1,5 @@
+1) Amit 	Física 	 	90
+2) Rahul	Matemática	90
+3) Shyam	Biología	89
+4) Kedar 	Ingles		88
+5) Hari		Historia 	90
